@@ -14,7 +14,7 @@ Go to your Cloud Console, and click on the "Instance" text in the "Compute" pane
 Now you can see the already defined instances, and use the **"Create Instance"*** button to start the creation wizard of a new instance:
 
 <kbd>
-![](images/comp1.PNG)
+![](./images/comp1.PNG)
 </kbd>
 
 On the image creation creen, select "Marketplace" on the right side
