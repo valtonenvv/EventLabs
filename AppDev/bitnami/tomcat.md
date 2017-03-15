@@ -1,15 +1,15 @@
 ![](../common/images/customer.logo.png)
 ---
 
-In this lab we will be using the Marketplace to deploy a Tomcat Image file onto a Compute node on the Oracle Cloud. 
+In this lab we will be using the Marketplace to deploy a Tomcat Image file onto a Compute node on the Oracle Cloud.
 
 ## Using the Create Image wizard ##
 
 Go to your Cloud Console, and click on the "Instance" text in the "Compute" pane
 
-<kbd>
-![](images/comp0.PNG)
-</kbd>
+
+![](/images/comp0.PNG)
+
 
 Now you can see the already defined instances, and use the **"Create Instance"*** button to start the creation wizard of a new instance:
 
@@ -62,7 +62,7 @@ Leave all other parameters as per default, and hit the "next" button ">"
 
 
 On the "Network" page, you will create a new security list.  
-+ Hit the "Create Security List 
++ Hit the "Create Security List
 + Enter a name containing your username (e.g. user01_aa)
 + Keep the default parameters for the Inbound and Outbound policies
 
@@ -132,5 +132,3 @@ If you are executing this Lab in an Oracle office, and you are using the guest n
 <kbd>
 ![](images/comp13.PNG)
 </kbd>
-
-
